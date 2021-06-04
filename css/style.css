@@ -802,7 +802,7 @@ img {
   outline-color: var(--accent-color);
 }
 
-.form__input:focus + .form-field-icon {
+.form__input:focus + .form__icon {
   fill: var(--accent-color);
 }
 
